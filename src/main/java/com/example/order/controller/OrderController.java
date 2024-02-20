@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/order-service")
+@RequestMapping("/")
 @Slf4j
 public class OrderController {
     Environment env;
